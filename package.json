@@ -1,6 +1,6 @@
 {
   "name": "client-socket-gateway",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package helps a client receive messages from a web socket",
   "main": "index.js",
   "repository": {
