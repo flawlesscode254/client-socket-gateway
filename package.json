@@ -1,0 +1,20 @@
+{
+  "name": "client-socket-gateway",
+  "version": "1.0.1",
+  "description": "This package helps a client receive messages from a web socket",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/flawlesscode254/client-socket-gateway"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "realtime",
+    "websocket",
+    "socket",
+    "ws"
+  ],
+  "author": "flawlesscode254",
+  "license": "MIT"
+}
